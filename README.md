@@ -1,5 +1,5 @@
 # ergodic_iSAC_quadrotor
-C++ code implementing ergodic iSAC: an ergodic control algorithm that uses complex agent dynamics to explore a probability-of-detection distribution in real time. The current implementation uses 12-dimensional quadrotor dynamics. 
+C++ code implementing ergodic iSAC: an ergodic control algorithm that uses complex agent dynamics to explore a varying probability-of-detection distribution in real time. The current implementation uses 12-dimensional quadrotor dynamics to explore a Gaussian distribution  with the peak performing a circular motion.
 
 # Dependencies
 The code requires the Boost and Eigen libraries.

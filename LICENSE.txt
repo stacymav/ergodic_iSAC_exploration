@@ -1,11 +1,11 @@
 # Copyright & License Notice
 
-Ergodic_iSAC_quadrotor is copyrighted, patent pending, and is owned by Northwestern
+Ergodic_iSAC_exploration is copyrighted, patent pending, and is owned by Northwestern
 University, an Illinois not-for-profit corporation, having a place of
 business at 633 Clark Street, Evanston, Illinois  60208 . It can be
 freely used for educational and research purposes by non-profit
 institutions and US government agencies only. Other organizations are
-allowed to use ergodic_iSAC_quadrotor only for evaluation purposes, and any further
+allowed to use ergodic_iSAC_exploration only for evaluation purposes, and any further
 uses will require prior approval. The software may not be sold or
 redistributed without prior approval. One may make copies of the
 software for their use provided that the copies, are not sold or

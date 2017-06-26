@@ -6,7 +6,7 @@ The code requires the Boost and Eigen libraries.
 
 # To compile and run
 	--- Update Makefile.txt with local Boost and Eigen paths
-	--- "make Quad_Euler.cpp"
+	--- "make"
 	--- Run Quad_Euler.exe
 	--- Plot resulting trajectories in Matlab, using ./data/plots_matlab.m
 

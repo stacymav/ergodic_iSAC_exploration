@@ -3,9 +3,9 @@ The algorithm controls a simulated 12-dimensional quadrotor to explore a probabi
 
 
 
-Copyright & License Notice
+# Copyright & License Notice
 
-ergodic_iSAC_quadrotor is copyrighted, patent pending, and is owned by Northwestern
+Ergodic_iSAC_quadrotor is copyrighted, patent pending, and is owned by Northwestern
 University, an Illinois not-for-profit corporation, having a place of
 business at 633 Clark Street, Evanston, Illinois  60208 . It can be
 freely used for educational and research purposes by non-profit
